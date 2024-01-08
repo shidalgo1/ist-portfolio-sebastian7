@@ -8,3 +8,9 @@ git add.
 git commit -m "commit message"
 git push
 ```
+
+![Tux](9bi7r9uui3s21.jpg)
+
+To auto complete filenames in vim
+- Ctrl+x Ctrl +f
+- Ctrl+n to cycle through options
